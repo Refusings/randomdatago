@@ -7,7 +7,7 @@
     "Chiori": { "name": "Uraku Misugiri", "link": ["Uraku_Misugiri"] },
     "Citlali": { "name": "Starcaller's Watch", "link": ["Starcaller%27s_Watch"] },
     "Clorinde": { "name": "Absolution", "link": ["Absolution"] },
-    "Columbina": { "name": "Nocturne's Curtain Call", link: ["Nocturne%27s_Curtain_Call"] },
+    "Columbina": { "name": "Nocturne's Curtain Call", "link": ["Nocturne%27s_Curtain_Call"] },
     "Cyno": { "name": "Staff of the Scarlet Sands", "link": ["Staff_of_the_Scarlet_Sands"] },
     "Dehya": { "name": "Beacon of the Reed Sea", "link": ["Beacon_of_the_Reed_Sea"] },
     "Durin": { "name": "Athame Artis", "link": ["Athame_Artis"] },
@@ -41,7 +41,7 @@
     "Tartaglia": { "name": "Polar Star", "link": ["Polar_Star"] },
     "Tighnari": { "name": "Hunter's Path", "link": ["Hunter%27s_Path"] },
     "Varesa": { "name": "Vivid Notions", "link": ["Vivid_Notions"] },
-    "Varka": { "name": "Gest of the Mighty Wolf", link: ["Gest_of_the_Mighty_Wolf"] },
+    "Varka": { "name": "Gest of the Mighty Wolf", "link": ["Gest_of_the_Mighty_Wolf"] },
     "Venti": { "name": "Elegy for the End", "link": ["Elegy_for_the_End"] },
     "Wanderer": { "name": "Tulaytullah's Remembrance", "link": ["Tulaytullah%27s_Remembrance"] },
     "Wriothesley": { "name": "Cashflow Supervision", "link": ["Cashflow_Supervision"] },
@@ -52,6 +52,6 @@
     "Yelan": { "name": "Aqua Simulacra", "link": ["Aqua_Simulacra"] },
     "Yoimiya": { "name": "Thundering Pulse", "link": ["Thundering_Pulse"] },
     "Yumemizuki Mizuki": { "name": "Sunny Morning Sleep-In", "link": ["Sunny_Morning_Sleep-In"] },
-    "Zibai": { "name": "Lightbearing Moonshard", link: ["Lightbearing_Moonshard"] },
+    "Zibai": { "name": "Lightbearing Moonshard", "link": ["Lightbearing_Moonshard"] },
     "Zhongli": { "name": "Vortex Vanquisher", "link": ["Vortex_Vanquisher"] }
 }
